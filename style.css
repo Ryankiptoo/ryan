@@ -1,0 +1,19 @@
+.body{
+   
+    border-image: auto;
+    font-size: larger;
+
+}
+.header{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.form{
+    text-align: center;
+    color: #fff;
+    background-color: black;
+    margin-top: 20px;
+}
